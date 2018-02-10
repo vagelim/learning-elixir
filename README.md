@@ -1,6 +1,9 @@
 # learning-elixir
 a dump for my jupyter notebooks while i learn elixir
 
+[Link to Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/vagelim/learning-elixir/blob/master/Elixir.ipynb)
+
+
 ## Get started
 If you want to use this notebook, you will need to install an Elixir kernel for Jupyter.
 
