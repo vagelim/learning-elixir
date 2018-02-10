@@ -25,3 +25,7 @@ $ ./install_script.sh
 ### Caveats
 The rebar installation is somewhat flaky; that's the only issue I had with installation.
 Running `mix docs` doesn't work for me.
+
+
+## Extras
+If you use Sublime3, you may want to install Elixir syntax highlighting. I use the [elixir-tmbundle package](https://github.com/elixir-editors/elixir-tmbundle).
